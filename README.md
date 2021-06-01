@@ -1,7 +1,23 @@
-### Hi there 👋
+# Eliott Vainchtock
+
+## Presentation
+- 🏤 j'étudie actuellement à l'ESIEE-IT <br>
+- 📌 Pontoise <br>
+- 👨‍🎓 je suis en BTS SIO option SLAM en alternance <br>
+- 💼 je suis en alternance dans l'entreprise laveline je fais du developpement web (backend et frontend) <br>
+- 💻 Compétences informatique : PHP / HTML / CSS / JS / SQL
+ 
+ ## Projets
+ - 🏭 Entreprise : 
+   - Site du Kebab Des Batignolles (Frontend)<br> 
+   - Site de l'école Esthétique de Dax (Frontend/Backend)<br>
+  
+ - 📚 Ecole :
+   - **python:**
+     - Un système de billeterie de métro (calculs de l'itinéraire, zone tarifiare, coût du trajet)
+     - une petite aventure avec ( un combat, déplacement dans des salles, cantine pour gagner des PV)
 
 <!--
-**EliottV02/EliottV02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
