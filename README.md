@@ -5,7 +5,7 @@
 - 📌 Pontoise <br>
 - 👨‍🎓 je suis en BTS SIO option SLAM en alternance <br>
 - 💼 je suis en alternance dans l'entreprise laveline je fais du developpement web (backend et frontend) <br>
-- 💻 Compétences informatique : PHP / HTML / CSS / JS / SQL
+- 💻 Compétences informatique : PHP / HTML / CSS / JS / SQL / PYTHON
  
  ## Projets
  - 🏭 Entreprise : 
